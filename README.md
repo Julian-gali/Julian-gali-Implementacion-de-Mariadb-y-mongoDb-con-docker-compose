@@ -117,7 +117,8 @@ Este archivo explicará cómo configurar el proyecto:
 - Port: `3306`
 - Username and password are set in the `.env` file.
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/82cb6de8-24c3-4d69-accb-182c200f45ce)
+
 
 ## Verifying the Service
 Use a MySQL client like MySQL Workbench to connect to the MariaDB instance.
@@ -175,7 +176,8 @@ El archivo `.env.example` para MongoDB se verá así:
 MONGO_INITDB_ROOT_USERNAME=example_admin
 MONGO_INITDB_ROOT_PASSWORD=example_password
 ```
-![alt text](<Captura de pantalla 2024-09-30 162501.png>)
+![image](https://github.com/user-attachments/assets/ef6dd1cd-49c9-4283-a897-8efbc457a9b3)
+
 
 ### 5. Configurar el Archivo `.gitignore`
 Añade `.env` al archivo `.gitignore` para que no se suba a GitHub:
@@ -183,7 +185,8 @@ Añade `.env` al archivo `.gitignore` para que no se suba a GitHub:
 ```gitignore
 .env
 ```
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/b413c860-5152-4378-a1e4-ca2e41a8b857)
+
 
 ### 6. Crear el Archivo `README.md`
 Añade las instrucciones de configuración en el archivo `README.md`:
@@ -211,6 +214,9 @@ Añade las instrucciones de configuración en el archivo `README.md`:
 - Port: `27017`
 - Username and password are set in the `.env` file.
 
-![alt text](<Captura de pantalla 2024-09-30 162550.png>)
+![image](https://github.com/user-attachments/assets/20394798-4047-4870-b2e1-9c659328015f)
 
-![alt text](<Captura de pantalla 2024-09-30 162411.png>)
+
+![image](https://github.com/user-attachments/assets/f82e15a5-9b0a-40e2-8b00-61fa2e42a93d)
+
+
