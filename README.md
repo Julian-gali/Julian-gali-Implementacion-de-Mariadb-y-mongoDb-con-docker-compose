@@ -81,7 +81,8 @@ MYSQL_DATABASE=example_db
 MYSQL_USER=example_user
 MYSQL_PASSWORD=example_password
 ```
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/03254a58-fced-4cc1-b805-160f8a1248d0)
+
 
 ### 5. Configurar el Archivo `.gitignore`
 En `.gitignore`, agrega la siguiente línea para evitar que se suba el archivo `.env` a GitHub:
